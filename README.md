@@ -16,11 +16,12 @@ Change the content, not the visual language, unless the document genuinely needs
 
 ## Canonical source
 
-- `template/Chris_PDF_Standard_v1.html` - editable master template
+- `template/Chris_PDF_Standard_v1.html` - self-contained editable master template
 - `PDF_STANDARD_RULES.md` - visual and usage rules
 - `brand_tokens.json` - reusable design tokens
-- `assets/refab_header.png` - current ReFab reference header asset
 - `template/Chris_PDF_Standard_v1.pdf` - rendered master/reference
+
+The master HTML carries the current ReFab-style header directly, so the template has no external brand-image dependency.
 
 ## Golden references
 
