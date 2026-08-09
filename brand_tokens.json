@@ -1,0 +1,24 @@
+{
+  "standard": "Chris PDF Standard",
+  "version": "1.0",
+  "page_size": "Letter",
+  "orientation": "portrait",
+  "brand_style": "centered_header",
+  "colors": {
+    "accent": "#d62035",
+    "accent_soft": "#fff2f3",
+    "panel": "#f3f3f3",
+    "panel_secondary": "#eaeaea",
+    "text": "#202124",
+    "muted": "#5c5f63",
+    "grid": "#d6d6d6"
+  },
+  "default_page_types": [
+    "executive_summary",
+    "ranking_chart",
+    "themes_findings",
+    "priority_action_table",
+    "general_procedure",
+    "one_page_quick_reference"
+  ]
+}
